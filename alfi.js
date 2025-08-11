@@ -6,7 +6,7 @@ const pesanList = [
     "Jangan terlalu dipikirin, keep calm & cool 😎",
     "Ingat, lo itu lebih kuat dari yang lo kira 💯",
     "Break bentar gak masalah, asal balik lagi lebih kenceng 🚀",
-    "Capek wajar, nyerah jangan 🙌",
+    "Semangat bu ketuaa 🙌",
     "Jangan lupa recharge energi lu ⚡",
     "Lu bukan sendirian, gua ada di sini 👊",
     "Fokus ke tujuan, abaikan noise di luar 🎯",
@@ -14,9 +14,9 @@ const pesanList = [
     "Jangan overthinking, jalani step by step 📈",
     "Kalau stuck, istirahat sebentar terus lanjut lagi ⏳",
     "Percaya sama proses, hasil bakal ngikutin ✨",
-    "Yang penting lu udah berusaha maksimal 🔥",
-    "Semangat fiiiii! 💪",
-    "Alfii kerenn pokonya mah 😎"
+    "Semangat ka mentorr 🔥",
+    "Semangat Alfi! 💪",
+    "Aisyah Alfi Fadhilah 😎"
 ];
 
 const fotoList = [
